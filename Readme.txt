@@ -1,0 +1,1 @@
+In this project, I used most of css selectors for input 'type=text' elements. Using css selectors cleverly looks all project wonderful and also I used JavaScript for calculate your age with year, month and day functions, so you can learn you age with day,month and year.  
